@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="scr.jpg" alt="Abdal IDM Trial Reset" >
+  <img src="scr.png" alt="Abdal IDM Trial Reset" >
 </div>
 
 
