@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="scr.jpg" alt="Abdal IDM Trial Reset" width="400">
+  <img src="scr.jpg" alt="Abdal IDM Trial Reset" >
 </div>
 
 این نرم‌افزار توسط ابراهیم شفیعی (EbraSha) طراحی و توسعه داده شده است و برای اهداف آموزشی و تحقیقات امنیتی و مهندسی معکوس ارائه شده است.با این نرم افزار  IDM را همیشه رایگان استفاده کنید.
